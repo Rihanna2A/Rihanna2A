@@ -1,4 +1,6 @@
-### Hi there 👋
+Meu nome é Rihanna Rodrigues
+estudante alura 
+desenvolvendo linguagem JavaScript
 
 <!--
 **Rihanna2A/Rihanna2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
